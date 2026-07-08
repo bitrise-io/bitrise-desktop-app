@@ -1,0 +1,16 @@
+name: Feature request
+description: Suggest an improvement or a new capability
+labels: ["feature"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: Describe the need or the frustration behind the request.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: Optional. How do you imagine it working?

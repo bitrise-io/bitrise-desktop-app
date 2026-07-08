@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://devcenter.bitrise.io
+    about: Guides and reference for Bitrise, including the desktop app.
+  - name: Bitrise support
+    url: https://bitrise.io
+    about: For account, billing, or CI questions unrelated to the desktop app.
