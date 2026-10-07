@@ -59,6 +59,6 @@ For account or CI questions unrelated to the app, contact [Bitrise support](http
 
 The app sends product-usage analytics to Bitrise, tied to your Bitrise account, to help us improve it.
 
-## Terms
+## Licence
 
-The Bitrise Desktop App is proprietary software (not open source), &copy; Bitrise. Your use of the app is governed by [Bitrise's legal terms](https://bitrise.io/legal).
+The Bitrise Desktop App is proprietary software and is not open source. See [LICENCE](LICENCE) for the terms under which you may install and use it.
